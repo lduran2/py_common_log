@@ -1,3 +1,6 @@
-Common Log in Python v0.2024.04.28.0000  -
-Common log format configuration implemented
-in Python 1.5.2.
+Logger Configure in Python v0.2024.04.29 -
+Utility for configuring the root logger in
+the logging library implemented in Python
+1.5.2.
+Formerly Common Log in Python
+<https://github.com/lduran2/py_common_log>
